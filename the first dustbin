@@ -1,0 +1,12 @@
+#<stdio.h>
+<include>ing;
+{
+  int a=0;
+  int b=c;
+  printf("please input an number:\n");
+  input(c,int,ing);
+  if(c<10,c++)
+    {
+      a=(a+1)*2;
+      }
+  
