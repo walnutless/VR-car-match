@@ -1,0 +1,11 @@
+#include <iostream>
+
+using namespace std;
+
+int main() {
+	cout << "hello https://tool.lu/" << endl;
+	return 0;
+}
+//Just the hello world in c++, but why I learn C++ first? What a bity!
+
+
